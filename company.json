@@ -1,0 +1,65 @@
+{
+  "name": "IronClad Heavy Equipment Solutions",
+  "tagline": "Mining & Industrial Maintenance",
+  "description": "IronClad Heavy Equipment Solutions provides specialized maintenance, repair, and support services for heavy machinery used in mining and industrial operations.",
+  "industry": "Mining & Industrial Equipment Maintenance",
+  "website": "https://elmonmasterem.co.za/",
+  "logo": "/assets/images/logo.png",
+  "contact": {
+    "phone": "",
+    "email": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "province": "",
+      "postalCode": "",
+      "country": "South Africa"
+    }
+  },
+  "socialMedia": {
+    "facebook": "",
+    "linkedin": "",
+    "instagram": "",
+    "twitter": ""
+  },
+  "services": [
+    {
+      "title": "Heavy Equipment Maintenance",
+      "description": "Preventative and corrective maintenance for mining and industrial machinery."
+    },
+    {
+      "title": "Mechanical Repairs",
+      "description": "On-site and workshop repairs for heavy-duty mining equipment."
+    },
+    {
+      "title": "Hydraulic Systems",
+      "description": "Diagnosis, repair, and servicing of hydraulic systems and components."
+    },
+    {
+      "title": "Fleet Management Support",
+      "description": "Scheduled servicing and inspections to reduce equipment downtime."
+    },
+    {
+      "title": "Emergency Breakdown Response",
+      "description": "Rapid-response repair services for critical equipment failures."
+    }
+  ],
+  "industries_served": [
+    "Mining",
+    "Construction",
+    "Industrial Manufacturing",
+    "Quarrying"
+  ],
+  "certifications": [],
+  "yearsInOperation": "",
+  "teamSize": "",
+  "operatingHours": {
+    "monday": "",
+    "tuesday": "",
+    "wednesday": "",
+    "thursday": "",
+    "friday": "",
+    "saturday": "",
+    "sunday": ""
+  }
+}
